@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Go over to my own Git server https://git.xw3.org/hanez! 
+Go over to my own Git server @ https://git.xw3.org/hanez! 
 
 I use GitHub only for collaboration in other projects and mirroring stuff from my own Git server.
 
