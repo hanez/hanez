@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Go over to https://git.xw3.org/hanez! I use GitHub only for collaboration in other projects and mirroring stuff from my own Git server.
+Go over to my own Git server https://git.xw3.org/hanez! 
+
+I use GitHub only for collaboration in other projects and mirroring stuff from my own Git server.
 
 <!--
 **hanez/hanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
