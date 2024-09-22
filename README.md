@@ -1,6 +1,8 @@
+### Hi there 👋
+
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-### Hi there 👋
+[![hanez's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanez&show_icons=true&hide_title=false&include_all_commits=true&count_private=true)](#)
 
 Go over to my own Git server @ https://git.xw3.org/hanez! 
 
@@ -20,5 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![hanez's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanez&show_icons=true&hide_title=false&include_all_commits=true&count_private=true)](#)
