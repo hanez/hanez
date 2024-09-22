@@ -15,6 +15,13 @@ I use GitHub only for collaboration in other projects and mirroring stuff from m
 
 ![hanez's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanez&theme=nord&show_icons=true&hide_border=false&layout=compact)
 
+https://gh-stats-gen.vercel.app/
+https://stackoverflow.com/questions/34516592/embed-github-contributions-graph-in-website
+https://github.com/Bloggify/github-calendar
+https://dev.to/anuraghazra/dynamically-generated-github-stats-for-your-profile-readme-o4g
+https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statistics
+
+
 **hanez/hanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
