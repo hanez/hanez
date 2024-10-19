@@ -3,12 +3,12 @@
 Go over to my own Git server @ https://git.xw3.org/hanez! 
 
 I use GitHub only for collaboration in other projects and mirroring stuff from my own Git server.
-
+<!--
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 ![hanez's Stats](https://github-readme-stats.vercel.app/api?username=hanez&theme=nord&show_icons=true&hide_border=false&count_private=false)
 
-<!--
+
 [![hanez's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanez&show_icons=true&hide_title=false&include_all_commits=true&count_private=true)](#)
 
 ![hanez's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanez&theme=nord&hide_border=false)
